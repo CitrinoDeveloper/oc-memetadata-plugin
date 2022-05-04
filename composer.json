@@ -1,5 +1,5 @@
 {
-    "name": "citrino/metadata-plugin",
+    "name": "snipi/metadata-plugin",
     "type": "winter-plugin",
     "description": "Extend your media manager with metadata and other funcionality",
     "homepage": "https://www.snipi.sk",
