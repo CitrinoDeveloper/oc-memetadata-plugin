@@ -10,6 +10,11 @@
             "email": "snipi@snipi.sk"
         }
     ],
+    "source": {
+          "url": "https://github.com/CitrinoDeveloper/oc-memetadata-plugin.git",
+          "type": "git",
+          "reference": "master"
+        }
     "require": {
         "composer/installers": "~1.0",
         "spatie/image": "^1.0"
