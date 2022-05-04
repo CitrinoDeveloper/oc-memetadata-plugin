@@ -1,9 +1,9 @@
 {
     "name": "snipi/memetadata-plugin",
-    "type": "october-plugin",
+    "type": "winter-plugin",
     "description": "Extend your media manager with metadata and other funcionality",
     "homepage": "https://www.snipi.sk",
-    "keywords": ["october", "cms", "edit","seo","metadata","media finder"],
+    "keywords": ["winter", "cms", "edit","seo","metadata","media finder"],
     "authors": [
         {
             "name": "SNiPI",
@@ -11,6 +11,10 @@
         }
     ],
     "require": {
+        "composer/installers": "~1.0",
         "spatie/image": "^1.0"
+    }
+    "extra": {
+        "installer-name": "metadata-plugin"
     }
 }
